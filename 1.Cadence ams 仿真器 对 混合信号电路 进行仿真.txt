@@ -1,0 +1,2 @@
+https://blog.csdn.net/mymatin1004/article/details/98804521
+生成schematic会出错，别用AMS，用SPECTRE
